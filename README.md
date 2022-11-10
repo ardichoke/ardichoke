@@ -1,16 +1,23 @@
-### Hi there 👋
+## About ardichoke
 
-<!--
-**ardichoke/ardichoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave: Greetings, I'm Ryan. I like automating things and building resilient systems. I work as an SRE/DevOps Engineer.
 
-Here are some ideas to get you started:
+### Tools I Like
+<sub>An abridged list.</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/linux-blue?style=for-the-badge&logo=Linux&logoColor=black) ![Puppet](https://img.shields.io/badge/Puppet-black?style=for-the-badge&logo=Puppet) ![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=Ruby) ![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=Ansible) ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=Python) ![Vault](https://img.shields.io/badge/Vault-black?style=for-the-badge&logo=Vault) ![Consul](https://img.shields.io/badge/Consul-black?style=for-the-badge&logo=Consul) ![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=Terraform)
+
+### Code I've Released
+[![Puppet Forge version](https://img.shields.io/puppetforge/v/ardichoke/arpwatch?label=puppet-arpwatch&style=for-the-badge)![Puppet Forge downloads](https://img.shields.io/puppetforge/dt/ardichoke/arpwatch?style=for-the-badge)](https://forge.puppet.com/modules/ardichoke/arpwatch)
+
+[![Puppet Forge version](https://img.shields.io/puppetforge/v/ardichoke/arpwatch?label=puppet-klipper&style=for-the-badge)![Puppet Forge downloads](https://img.shields.io/puppetforge/dt/ardichoke/klipper?style=for-the-badge)](https://forge.puppet.com/modules/ardichoke/klipper)
+
+### Hobbies
+
+- 3D Printing
+- Woodworking
+- Cooking
+- Does parenting count as a hobby?
+
+### Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/rdeshone)[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ard1choke)[![Tumblr](https://img.shields.io/badge/tumblr-36465D?style=for-the-badge&logo=Tumblr)](https://blog.ardichoke.info)
