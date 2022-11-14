@@ -10,7 +10,7 @@
 ### Code I've Released
 [![Puppet Forge version](https://img.shields.io/puppetforge/v/ardichoke/arpwatch?label=puppet-arpwatch&style=for-the-badge)![Puppet Forge downloads](https://img.shields.io/puppetforge/dt/ardichoke/arpwatch?style=for-the-badge)](https://forge.puppet.com/modules/ardichoke/arpwatch)
 
-[![Puppet Forge version](https://img.shields.io/puppetforge/v/ardichoke/arpwatch?label=puppet-klipper&style=for-the-badge)![Puppet Forge downloads](https://img.shields.io/puppetforge/dt/ardichoke/klipper?style=for-the-badge)](https://forge.puppet.com/modules/ardichoke/klipper)
+[![Puppet Forge version](https://img.shields.io/puppetforge/v/ardichoke/klipper?label=puppet-klipper&style=for-the-badge)![Puppet Forge downloads](https://img.shields.io/puppetforge/dt/ardichoke/klipper?style=for-the-badge)](https://forge.puppet.com/modules/ardichoke/klipper)
 
 ### Hobbies
 
