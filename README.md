@@ -20,4 +20,4 @@
 - Does parenting count as a hobby?
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/rdeshone)[![Tumblr](https://img.shields.io/badge/tumblr-36465D?style=for-the-badge&logo=Tumblr)](https://blog.ardichoke.info)[![Mastodon Follow](https://img.shields.io/mastodon/follow/000525179?style=for-the-badge)](https://mastodon.social/@ardichoke)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/rdeshone)[![Tumblr](https://img.shields.io/badge/tumblr-36465D?style=for-the-badge&logo=Tumblr)](https://blog.ardichoke.info)<a rel="me" href="https://mastodon.social/@ardichoke">![Mastodon Follow](https://img.shields.io/mastodon/follow/000525179?style=for-the-badge)</a>
